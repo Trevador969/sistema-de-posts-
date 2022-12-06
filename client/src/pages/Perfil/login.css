@@ -1,0 +1,57 @@
+h1
+{
+    color: white;
+}
+.fotoperf {
+    width: 98%;
+    height: 70px;
+    overflow: hidden;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+.bios--container {
+    margin-top: 0px;
+    width: 98%;
+    height: 171px;
+    background-color: #121D36;
+    margin-left: 20px;
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+}
+.fotobios {
+    border-radius: 100%;
+    height: 70px;
+    margin-top: -45px;
+    margin-left: 10px;
+}
+.namebios
+{
+    font-size: 20px;
+}
+.textbios {
+    color: white;
+    font-size: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 643px;
+    width: 13em;
+}
+.Following {
+    text-align: center;
+    margin-right: 120px;
+}
+.Followingg {
+    text-align: center;
+    margin-right: 120px;
+    margin-top: 9px;
+}
+.Follow {
+    text-align: center;
+    margin-left: 120px;
+    margin-top: -28px;
+}
+.Followw {
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 0px;
+}

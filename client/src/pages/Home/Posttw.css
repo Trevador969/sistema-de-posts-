@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Source+Sans+Pro:wght@600&display=swap');
+
+li
+{
+    list-style: none;
+}
+.imghome--container {
+    height: 27px;
+    width: 28px;
+    margin-right: 4px;
+    margin-top: -6px;
+}
+.imgmsg--container {
+    height: 27px;
+    width: 28px;
+    margin-right: -56px;
+    margin-top: 6px;
+}
+.notfy--container {
+    height: 30px;
+    width: 28px;
+    margin-right: -108px;
+    margin-top: 4px;
+}
+.botoes--container {
+    display: flex;
+    text-align: right;
+    margin-left: 985px;
+    margin-top: 21px;
+}
+.hometw--container {
+    padding-top: 10px;
+    padding-left: 10px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    height: 31px;
+    width: 115px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25;
+    display: flex;
+    border-radius: 15px;
+}
+.msgtw--container
+{
+    height: 15px;
+    width: 1;
+}
+
+.hometw--container:hover
+{
+    transition: 10ms linear;
+    transform: scale(1.05);
+}
+.msgtw--container:hover
+{
+    transition: 500ms;
+    transform: scale(1.03);
+}
+.ntftw--container:hover
+{
+    transition: 500ms;
+    transform: scale(1.03);
+}
+
+.perfil {
+    background-color: #121D36;
+    height: 52px;
+    width: 185px;
+    border-radius: 25px;
+    margin-left: 1233px;
+    margin-top: -45px;
+}
+.perfil:hover{
+    transition: 500ms linear;
+    transform: scale(1.03);
+}
+.phperfil {
+    border-radius: 100%;
+    height: 41px;
+    margin-top: 6px;
+    margin-left: 10px;
+}
+.namepf {
+    margin-top: 3px;
+    margin-left: -69px;
+    align-items: center;
+    flex-direction: column;
+    font-size: 18px;
+    padding-bottom: 12px;
+    padding-top: 3px;
+    color: white;
+    height: 29px;
+    padding-top: 12px;
+    padding-left: 80px;
+    padding-right: 10px;
+    position: absolute;
+    width: 145px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+a:link {
+    text-decoration:none;
+    }
+    a:visited {
+    text-decoration:none;
+    }
+    a:hover {
+    text-decoration:none;
+    }
+.miniperfil--container {
+    height: 368px;
+    width: 375px;
+    background-color: #121D36;
+    margin-left: 65px;
+    margin-top: 33px;
+    border-radius: 48px;
+}
+.sugestoes--container {
+    height: 254px;
+    width: 375px;
+    background-color: #121D36;
+    margin-left: 65px;
+    margin-top: -206px;
+    border-radius: 48px;
+}
+
+
+.chatpost--container {
+    height: 101px;
+    width: 552px;
+    background-color: #121D36;
+    margin-left: 467px;
+    margin-top: -365px;
+    border-radius: 20px;
+}
+.trends--container {
+    height: 585px;
+    width: 360px;
+    background-color: #121D36;
+    margin-left: 1044px;
+    margin-top: -100px;
+    border-radius: 20px;
+}
+
+.postchat {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 6px;
+}
+.postchatw--input {
+    margin-top: 13px;
+    position: absolute;
+    margin-left: 6px;
+    height: 31px;
+    width: 432px;
+    border-radius: 15px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    background-color: #7fcaff27;
+    color: rgb(189, 186, 186);
+    padding-left: 10px;
+}
+.button--container {
+    margin-top: 57px;
+    margin-left: 364px;
+    height: 30px;
+    position: absolute;
+    width: 87px;
+    border-radius: 15px;
+    border: 1px solid white;
+    background-color: #121D36;
+    color: white;
+}
+.button--container:hover
+{
+    border:1px solid #121D36;
+    background-color: white;
+    color: #121D36;
+}
